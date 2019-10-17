@@ -16,12 +16,31 @@
 
 # week3
 ## Stack & Queue
-- 1.編譯器(word、sublime)的 undo 。
-- 2.網頁瀏覽器中回到上一頁功能。
-- 3.任何遞迴(recursion)形式的演算法都可以用 Stack 改寫，例如 Depth-First Search(DFS,深度優先搜尋)
+- 編譯器(word、sublime)的 undo 。
+- 網頁瀏覽器中回到上一頁功能。
+- 任何遞迴(recursion)形式的演算法都可以用 Stack 改寫，例如 Depth-First Search(DFS,深度優先搜尋)
 ## Stack必須要有的功能有哪些?
- - 1.Push(Data): 把資料放到最上面(最新)。
- - 2.Pop: 把資料從最上面(最新)移除。
- - 3.Top: 回傳最上面(最新)的資料。
- - 4.IsEmpty: 確認stack 裡面是否有資料。
- - 5.getSize: 回傳stack 裡的資料個數。
+ - Push(Data): 把資料放到最上面(最新)。
+ - Pop: 把資料從最上面(最新)移除。
+ - Top: 回傳最上面(最新)的資料。
+ - IsEmpty: 確認stack 裡面是否有資料。
+ - getSize: 回傳stack 裡的資料個數。
+## 為什麼要有Queue
+ - 應用在其他演算法:
+  - Bread-First Search | 廣度優先搜尋
+  - Tree 的 Level-Order Traversal | 二元樹走訪
+  -作業係統被多個程式共享資源時(例如CPU、應表機、網站伺服器)，一次只能執行一個需求，所以需要用 Queue 來安排執行順序。
+## Queue必須要有的功能有哪些?
+ - Push(Data): 把資料放到 Queue 的後面，並更新成新的 back。
+ - Pop(dequeue): 把 front 所指向的資料從 Queue 中移除，並更新front。
+ - getFront: 回傳 front 所指向的資資料。
+ - getBack: 回傳 Back 所指向的資資料。
+ - IsEmpty: 確認 Queue 裡是否有資料。
+ - getSize: 確認 Queue 裡的資料個數。
+
+# week4
+## 插入排序法(Insertion Sort)
+ - 將資料分成已排序、未排序兩部份
+ - 依序由未排序中的第一筆(正處理的值)，插入到已排序中的適當位置
+   - 插入時由右而左比較，直到遇到第一個比正處理的值小的值，再插入
+   - 比較時，若遇到的值比正處理的值大或相等，則將值往右移
