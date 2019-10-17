@@ -39,10 +39,10 @@
  - getSize: 確認 Queue 裡的資料個數。
 
 # week4
-## 插入排序法(Insertion Sort)
-## 時間複雜度(Time Complexity)
-## 空間複雜度(Space Complexity)
-## 穩定性(Stable/Unstable)
+ - 插入排序法(Insertion Sort)
+ - 時間複雜度(Time Complexity)
+ - 空間複雜度(Space Complexity)
+ - 穩定性(Stable/Unstable)
 
 ## 插入排序做法
 分成已排序和未排序兩部分。依序由未排序中的第一筆為基準值(正處理的值)，插入到已排序中的適當位置。
