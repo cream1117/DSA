@@ -1,4 +1,4 @@
-import random   #設定亂數
+num = [1,4,6,2,11,15,23]  #設定數字
 
 def mergesort(listneedtosort):  #定義mergesort這個函數
 	index1 = index2 = index3 = 0  
