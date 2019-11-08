@@ -1,5 +1,5 @@
 # merge sort
-參考網址:https://www.runoob.com/w3cnote/merge-sort.html
+程式碼參考網址:https://www.runoob.com/w3cnote/merge-sort.html
 
 http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html
 
