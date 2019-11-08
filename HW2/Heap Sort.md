@@ -1,5 +1,5 @@
 # Heap sort
-參考網址:https://www.geeksforgeeks.org/heap-sort/
+程式碼參考網址:https://www.geeksforgeeks.org/heap-sort/
 
 # 學習歷程
 從一開始不清楚Heap sort到後來知道是堆積排序法，它的定義、排列方式等，中間研究了ppt及上網查詢資料，因為一開始已經摸索很久的Merge sort,
