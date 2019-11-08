@@ -22,7 +22,6 @@ def mergesort(listneedtosort):  #定義mergesort這個函數
 		
 		while index1 < len(leftsort): 
 			listneedtosort[index3] = leftsort[index1] 
-			index1 = index1 + 1
 			index3 = index3 + 1
 		
 		while index2 < len(rightsort): 
@@ -30,19 +29,5 @@ def mergesort(listneedtosort):  #定義mergesort這個函數
 			index2 = index2 + 1
 			index3 = index3 + 1
 
-# test
-testlist = list() 
 
-for g in range(20):
-    testlist.append(random.randint(1,500))
-print('')
-print ("原始數列", end="\n") 
-for i in range(len(testlist)):		 
-	print(testlist[i],end=" ")  
-mergesort(testlist) 
-print('\n')
-print("排序數列", end="\n") 
-for i in range(len(testlist)):		 
-	print(testlist[i],end=" ") 
-print('')
 
