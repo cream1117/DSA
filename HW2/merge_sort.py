@@ -1,17 +1,17 @@
-import random
+import random   #設定亂數
 
-def mergesort(listneedtosort): 
-	index1 = index2 = index3 = 0
+def mergesort(listneedtosort):  #定義mergesort這個函數
+	index1 = index2 = index3 = 0  
 
-	if len(listneedtosort) > 1: 
-		middlenumber = len(listneedtosort)//2
-		leftsort = listneedtosort[:middlenumber] 
+	if len(listneedtosort) > 1:   #假設list超過一個依上的字元
+		middlenumber = len(listneedtosort)//2   #就要分成兩邊
+		leftsort = listneedtosort[:middlenumber]    
 		rightsort = listneedtosort[middlenumber:]
 
-		mergesort(leftsort) 
-		mergesort(rightsort)
+		mergesort(leftsort)  #排序左邊
+		mergesort(rightsort)   #排序右邊
 
-		while index1 < len(leftsort) and  index2 < len(rightsort): 
+		while index1 < len(leftsort) and  index2 < len(rightsort):   #開始假設數值比較過程
 			if(leftsort[index1] < rightsort[index2]): 
 				listneedtosort[index3] = leftsort[index1] 
 				index1 = index1 + 1
