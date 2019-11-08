@@ -1,66 +1,48 @@
 import random
 
-def MSort(listneedtosort): 
-	if len(listneedtosort) >1: 
-		middle_number = len(listneedtosort)//2 #Finding the middle_number of the listneedtosortay 
-		L = listneedtosort[ # Dividing the listneedtosortay elements 
-		R = listneedtosort[middle_number:] # into 2 halves 
+def mergesort(listneedtosort): 
+	index1 = index2 = index3 = 0
 
-		MSort(L) # Sorting the first half 
-		MSort(R) # Sorting the second half 
+	if len(listneedtosort) > 1: 
+		middlenumber = len(listneedtosort)//2
+		leftsort = listneedtosort[:middlenumber] 
+		rightsort = listneedtosort[middlenumber:]
 
-		i = j = k = 0
+		mergesort(leftsort) 
+		mergesort(rightsort)
 
-		while i < len(L) and j < len(R): 
-			if L[i] < R[j]: 
-				listneedtosort[k] = L[i] 
-				i+=1
-			else: 
-				listneedtosort[k] = R[j] 
-				j+=1
-			k+=1
+		while index1 < len(leftsort) and  index2 < len(rightsort): 
+			if(leftsort[index1] < rightsort[index2]): 
+				listneedtosort[index3] = leftsort[index1] 
+				index1 = index1 + 1
+			elif(leftsort[index1] >= rightsort[index2]): 
+				listneedtosort[index3] = rightsort[index2] 
+				index2 = index2 + 1
+			index3 = index3 + 1
 		
-		# Checking if any element was left 
-		while i < len(L): 
-			listneedtosort[k] = L[i] 
-			i+=1
-			k+=1
+		while index1 < len(leftsort): 
+			listneedtosort[index3] = leftsort[index1] 
+			index1 = index1 + 1
+			index3 = index3 + 1
 		
-		while j < len(R): 
-			listneedtosort[k] = R[j] 
-			j+=1
-			k+=1
+		while index2 < len(rightsort): 
+			listneedtosort[index3] = rightsort[index2] 
+			index2 = index2 + 1
+			index3 = index3 + 1
 
-# 
-def printList(listneedtosort): 
-	for i in range(len(listneedtosort)):		 
-		print(listneedtosort[i],end=" ") 
-	print() 
-'''
 # test
-testlist = list()
+testlist = list() 
 
-for g in range(10000):
-    testlist.append(random.randint(1,10000000))
-
+for g in range(20):
+    testlist.append(random.randint(1,500))
+print('')
 print ("原始數列", end="\n") 
-printList(testlist) 
-MSort(testlist) 
+for i in range(len(testlist)):		 
+	print(testlist[i],end=" ")  
+mergesort(testlist) 
+print('\n')
 print("排序數列", end="\n") 
-printList(testlist) 
+for i in range(len(testlist)):		 
+	print(testlist[i],end=" ") 
+print('')
 
-'''
-
-listneedtosort = [12, 11, 13, 5, 6, 7] 
-print ("原始數列", end="\n") 
-	for i in range(len(listneedtosort)):		 
-		print(listneedtosort[i]) 
-	print() 
-MSort(listneedtosort) 
-print("排序數列", end="\n") 
-printList(listneedtosort) print ("原始數列", end="\n") 
-	for i in range(len(listneedtosort)):		 
-	    print(listneedtosort[i]) 
-	print()
-
-# This code is contributed by Mayank Khanna 
