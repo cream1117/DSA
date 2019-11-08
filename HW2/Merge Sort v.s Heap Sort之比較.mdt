@@ -1,0 +1,14 @@
+
+# Merge sort
+##  Merge sort是什麼?
+合併排序:將兩個已經排序過的紀錄合併，而得到另一種排序好的紀錄。
+分成遞迴及非遞迴。
+
+# Heap sort
+## Heap sort是什麼?
+堆積排序法:利用堆積來排序，堆積排序法近似於採用二元樹的技巧，可以分為最大堆積樹根最小堆積述兩種。
+
+# Merge Sort v.s Heap Sort
+Merge Sort、Heap Sort的排序方式有較大差異
+## Merge Sort排列方式
+Merge Sort
