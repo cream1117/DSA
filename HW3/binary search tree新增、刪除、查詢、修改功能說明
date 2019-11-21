@@ -17,3 +17,9 @@
   # binary search  修改功能說明
   先找出修改的節點，再將目標節點的值修改為最新的值。
   
+  
+  參考資料
+  1.https://ithelp.ithome.com.tw/articles/10206818
+  2.https://emn178.pixnet.net/blog/post/88780407
+  3.演算法相關書籍
+  
