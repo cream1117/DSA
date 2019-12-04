@@ -1,1 +1,11 @@
-
+# 流程圖
+# 學習歷程
+# 原理解釋
+Hash table:稱為雜湊表，也稱為哈希表。為一種資料儲存與搜尋的技術。
+由一組Buckets所組成，每個Buckets由一組Slot所組成，而每個Slot都可以存一筆資料紀錄。
+Hash function原理:
+假如需要存取某資料x，則必須先將hashing function計算，得出hashing address
+再到Hash Table對應的Bucket中進行存取X的動作
+#參考資料
+https://carlos-studio.com/2018/01/21/%E6%BC%94%E7%AE%97%E6%B3%95-%E9%9B%9C%E6%B9%8A%E8%A1%A8hash-table/
+https://zh.wikipedia.org/zh-tw/%E5%93%88%E5%B8%8C%E8%A1%A8
