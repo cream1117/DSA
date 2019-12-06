@@ -1,5 +1,5 @@
 # 流程圖
-![](https://imgur.com/undefined.jpg)
+![](https://imgur.com/DAhcjTr.jpg)
 查詢jeff喜歡什麼興趣，找出jeff在陣列裡面的第幾個箱子，求出雜湊值，用陣列的箱子個數進行Mod運算，結果是3，對應的興趣是music。
 # 學習歷程
 ![](https://imgur.com/sxQ4z87.jpg)
