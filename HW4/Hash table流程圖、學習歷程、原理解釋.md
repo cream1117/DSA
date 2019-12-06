@@ -9,7 +9,7 @@
 後來中間其實卡了蠻久的，因為我不知道後面要接什麼code，
 ![](https://imgur.com/QD6HM1B.jpg)
 所以我先看了老師提供的影片在自己上網查詢，看懂程式碼就花了蠻久的時間，不過後來完全弄懂後，打程式其實就比較順了。
-![](https://imgur.com/gjU1FWr.jpg)
+![](https://imgur.com/Z0FPy1B.jpg)
 ![](https://imgur.com/tgVMSxB.jpg)
 後來測試資料我按照ppt上面的打是可以，但是改成自己的就無法，因此測試程式碼部分還未完全弄好。
 # 原理解釋
