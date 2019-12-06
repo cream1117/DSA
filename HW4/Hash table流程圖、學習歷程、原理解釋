@@ -1,4 +1,5 @@
 # 流程圖
+![](https://imgur.com/hfiowOT.png)
 # 學習歷程
 # 原理解釋
 假如需要存取某資料x，則必須先將hashing function計算，得出hashing address
