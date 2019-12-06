@@ -30,4 +30,8 @@
 https://carlos-studio.com/2018/01/21/%E6%BC%94%E7%AE%97%E6%B3%95-%E9%9B%9C%E6%B9%8A%E8%A1%A8hash-table/
 https://zh.wikipedia.org/zh-tw/%E5%93%88%E5%B8%8C%E8%A1%A8
 https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8
+https://www.youtube.com/watch?time_continue=216&v=aZVNWYSR_sY&feature=emb_logo
+https://www.youtube.com/watch?time_continue=102&v=2BldESGZKB8&feature=emb_logo
+https://kknews.cc/zh-tw/code/8pkmzbq.html
+https://www.jishuwen.com/d/2NVp/zh-tw
 相關書籍
