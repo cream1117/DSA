@@ -1,6 +1,6 @@
 #流程圖
 BFS
-!.[.].(https://imgur.com/xrCBIB8.jpg)
+![](https://imgur.com/xrCBIB8.jpg)
 設1為起點，而我的目標頂點為6。
 使用BFS開始尋找目標頂點。
 紅色為現在搜尋到哪個位置。
