@@ -1,4 +1,10 @@
 # Dijkstra、Kruskal流程圖
+![](https://imgur.com/r0QgnM6.jpg)
+![](https://imgur.com/CsQePyB.jpg)
+![](https://imgur.com/ZTfimO0.jpg)
+![](https://imgur.com/9uSMYAa.jpg)
+![](https://imgur.com/JiZFw9u.jpg)
+
 # 學習歷程
 一開始上網尋找Dijkstra跟Kruskal演算法時，發現好像很少見，比其他演算法還少見，網路資訊及相關書籍裡面都沒有這種演算法詳細介紹。
 一開始先看懂助教的規定及測資，在開始摸索演算法，在摸索演算法前，我自行畫出流程圖，發現流程圖真的會讓我思緒更加清楚，讓我在參考程式碼時，可以比較快看懂意思，也比較好吸收，最後一步一步才成功打出code。
