@@ -12,7 +12,8 @@ https://www.youtube.com/watch?v=LpJceTbzJFo
        http://puremonkey2010.blogspot.com/2010/10/kruskal.html
        https://www.itread01.com/content/1545258433.html
 
-# 流程圖及原理參考資料: https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95
+# 流程圖及原理參考資料: 
+https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95
 https://www.itread01.com/content/1546894278.html
 https://www.itread01.com/content/1546379676.html
 https://ithelp.ithome.com.tw/articles/10209593
