@@ -47,6 +47,7 @@
  - 插入排序法(Insertion Sort)
  - 時間複雜度(Time Complexity)
  ![](https://imgur.com/Vy2zCJz.jpg)
+ 
  - 空間複雜度(Space Complexity)
  - 穩定性(Stable/Unstable)
 
@@ -68,6 +69,7 @@
  - Selection sort
  - Insertion sort
  - Bubble sort
+ 
 高等排序法
  - Heap sort
  - Quick sort
@@ -103,6 +105,8 @@
 如何建立BST:輸入的資料皆與樹根比，比樹根跟小的放至左子樹，比樹根大的放至右子樹。
 # week9
 ## Red Black Tree
+紅黑樹是一種自平衡二元搜尋樹，是在電腦科學中用到的一種資料結構，典型的用途是實現關聯陣列。
+紅黑樹的結構複雜，但它的操作有著良好的最壞情況執行時間，並且在實踐中高效：它可以在{\displaystyle {\text{O}}(\log n)}{\displaystyle {\text{O}}(\log n)}時間內完成尋找，插入和刪除，這裡的{\displaystyle n}n是樹中元素的數目。
 # week10
 ## Hash Table
 通過雜湊函式/演算法將要檢索的項與用來檢索的稱為雜湊(值）
