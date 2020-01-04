@@ -37,7 +37,7 @@
  - getBack: 回傳 Back 所指向的資料。
  - IsEmpty: 確認 Queue 裡是否有資料。
  - getSize: 確認 Queue 裡的資料個數。
- - 操作方法
+操作方法
  Add 添加：如果隊列未滿，則在隊列後面插入項目 
  Delete 刪除：如果隊列不為空，則刪除並返回隊列前面的元素 
  IsFull（Queue）：返回 True/False(Full/Not Full) 
@@ -64,13 +64,13 @@
 ## Merge Sort
 # week8
 ## Binary Tree
-![](https://imgur.com/Rf5aZHp.pig)
+![](https://imgur.com/Rf5aZHp.jpg)
 
 二元樹 
 ➢ 可以為空的樹 
-➢ 不為空則具有 Root，左、右子樹 
-➢ 各節點與分支度介於 0 與 2 之間 
-➢ 左、右子樹具有次序之分(order tree) 
+-➢ 不為空則具有 Root，左、右子樹 
+-➢ 各節點與分支度介於 0 與 2 之間 
+-➢ 左、右子樹具有次序之分(order tree) 
 
 二元樹的種類 
  偏斜二元樹 Skewed Binary Tree:可分左、右偏斜樹 
