@@ -38,14 +38,15 @@
  - IsEmpty: 確認 Queue 裡是否有資料。
  - getSize: 確認 Queue 裡的資料個數。
 操作方法
- Add 添加：如果隊列未滿，則在隊列後面插入項目 
- Delete 刪除：如果隊列不為空，則刪除並返回隊列前面的元素 
- IsFull（Queue）：返回 True/False(Full/Not Full) 
- IsEmpty(Queue）：返回 True/False(Empty/Not Empty) 
+ - Add 添加：如果隊列未滿，則在隊列後面插入項目 
+ - Delete 刪除：如果隊列不為空，則刪除並返回隊列前面的元素 
+ - IsFull（Queue）：返回 True/False(Full/Not Full) 
+ - IsEmpty(Queue）：返回 True/False(Empty/Not Empty) 
 
 # week4
  - 插入排序法(Insertion Sort)
  - 時間複雜度(Time Complexity)
+ ![](https://imgur.com/Vy2zCJz.jpg)
  - 空間複雜度(Space Complexity)
  - 穩定性(Stable/Unstable)
 
@@ -62,6 +63,7 @@
 ## Heap Sort
 分成Min Heap 跟Max Heap。
 將Max-Heap Sort的結果push到stack，最後在pop。使用Min-Heap Sort輸出。
+
 初等排序法
  - Selection sort
  - Insertion sort
@@ -75,27 +77,27 @@
 屬於 Divide and Conquer 演算法，把問題先拆解(divide)成子問
 題，並在逐一處理子問題後，將子問題的結果合併(conquer)，如
 此便解決了原先的問題。
- - 運算方法: 
- -  將陣列分割直到只有一個元素 
- -  開始兩兩合併，每次合併同時進行排序，合併出排序過的陣列 
- -  重複 2 的動作直接全部合併完成 
- - 可分兩種類型: 
- -  遞迴 Recursive 
- -  迴圈 Iterative 
+運算方法: 
+ - 將陣列分割直到只有一個元素 
+ - 開始兩兩合併，每次合併同時進行排序，合併出排序過的陣列 
+ - 重複 2 的動作直接全部合併完成 
+可分兩種類型: 
+ - 遞迴 Recursive 
+ - 迴圈 Iterative 
 # week8
 ## Binary Tree
 ![](https://imgur.com/Rf5aZHp.jpg)
 
 二元樹 
- - ➢ 可以為空的樹 
- - ➢ 不為空則具有 Root，左、右子樹 
- - ➢ 各節點與分支度介於 0 與 2 之間 
- - ➢ 左、右子樹具有次序之分(order tree) 
+ - 可以為空的樹 
+ - 不為空則具有 Root，左、右子樹 
+ - 各節點與分支度介於 0 與 2 之間 
+ - 左、右子樹具有次序之分(order tree) 
 
 二元樹的種類 
- -  偏斜二元樹 Skewed Binary Tree:可分左、右偏斜樹 
- -  完滿二元樹 Full Binary Tree 
- -  完整二元樹 Complete Binary Tree 
+ - 偏斜二元樹 Skewed Binary Tree:可分左、右偏斜樹 
+ - 完滿二元樹 Full Binary Tree 
+ - 完整二元樹 Complete Binary Tree 
 ## Binary Search Tree
 可應用於資料的排序跟搜尋。
 如何建立BST:輸入的資料皆與樹根比，比樹根跟小的放至左子樹，比樹根大的放至右子樹。
@@ -103,6 +105,10 @@
 ## Red Black Tree
 # week10
 ## Hash Table
+通過雜湊函式/演算法將要檢索的項與用來檢索的稱為雜湊(值）
+關聯起來，生成雜湊表。希望能將存放資料的 Table 大小降到「真正會存放進 Table 的資料的
+數量」，也就是「有用到的 Key 的數量」。
+ - 雜湊的優點:不須經過事前排序、保密性高、時間複雜度O(1)
 # week11
 ## Breadth-First Search
 # week12
