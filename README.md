@@ -33,10 +33,15 @@
 ## Queue必須要有的功能有哪些?
  - Push(Data): 把資料放到 Queue 的後面，並更新成新的 back。
  - Pop(dequeue): 把 front 所指向的資料從 Queue 中移除，並更新front。
- - getFront: 回傳 front 所指向的資資料。
- - getBack: 回傳 Back 所指向的資資料。
+ - getFront: 回傳 front 所指向的資料。
+ - getBack: 回傳 Back 所指向的資料。
  - IsEmpty: 確認 Queue 裡是否有資料。
  - getSize: 確認 Queue 裡的資料個數。
+ - 操作方法
+ Add 添加：如果隊列未滿，則在隊列後面插入項目 
+ Delete 刪除：如果隊列不為空，則刪除並返回隊列前面的元素 
+ IsFull（Queue）：返回 True/False(Full/Not Full) 
+ IsEmpty(Queue）：返回 True/False(Empty/Not Empty) 
 
 # week4
  - 插入排序法(Insertion Sort)
@@ -55,3 +60,20 @@
 
 # week6
 ## Heap Sort
+
+# week7
+## Merge Sort
+# week8
+## Binary Tree
+# week9
+## Red Black Tree
+# week10
+## Hash Table
+# week11
+## Breadth-First Search
+# week12
+## Depth-First Search
+# week13
+## Minimum Spanning Tree
+# week14
+## Shortest Path
