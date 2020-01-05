@@ -13,4 +13,3 @@ DFS利用Stack作為儲存已經開始探索但尚未結束的點的資料結構
 
 ## 參考資料
 
-https://www.youtube.com/watch?v=YlgPi75hIBc&feature=youtu.be
