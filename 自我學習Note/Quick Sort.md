@@ -7,9 +7,10 @@
 
 我們需要把所有小於支點的資料移動到支點之前、並把所有大於支點的資料移動到支點之後。
 
- ![](https://imgur.com/undefined.jpg)
+ ![](https://imgur.com/8a3QGG3.jpg)
 
 ##參考資料
+
 https://www.youtube.com/watch?time_continue=1&v=0Ds3KqYeXzA&feature=emb_title
 
 https://github.com/pecu/DSA/blob/master/05_QuickSort/QuickSort_LinkedList.py
