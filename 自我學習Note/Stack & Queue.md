@@ -12,6 +12,9 @@
  - Top: 回傳最上面(最新)的資料。
  - IsEmpty: 確認stack 裡面是否有資料。
  - getSize: 回傳stack 裡的資料個數。
+ 
+ ![](https://imgur.com/Gy9qm09.jpg)
+ 
 ## 為什麼要有Queue
  - 應用在其他演算法
  - Bread-First Search | 廣度優先搜尋
