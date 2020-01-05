@@ -37,47 +37,77 @@
  - Queue
 
 宣告 類別 (參數可以改object123)
-定義  初始化”是因為宣告會有初始化過程”(self)
+
+定義初始化是因為宣告會有初始化過程(self)
+
 宣告輸入的兩個stack 中括號是空的
 
 定義 放一個元素在queue最後方(self,可以改變參數)
+
 Push的功能
+
 Append是加入的意思
+
 Pop功能
+
 如果restack裡面有元素就回傳
+
 如果沒有元素就跳到while迴圈
+
 語法裡面的Len=長度   
+
 如果inputstack的長度不是0
+
 就把裡面的值加入resstack的值
+
 回傳到restake最前面
+
 Peek要拿到最前面所有元素
+
 判斷restack的-1位置是沒有元素
 
  - Stack
 
 Val是參數(放資料的地方)
+
 Nextnode(索引到下一個地方)
+
 None是沒有值
+
 temp是暫時的最小值
+
 Self.next 為後面要有其他值
 
 接著初始化
+
 先將箱子假設一開始都是空的
+
 所以箱子都是none
 
 Push功能
+
 Top目的是記最後一個位置
+
 假設top裡面沒東西是none
+
 Topnode= none就是(x，none)
+
 Temp(暫時)的最後一本書位置記起來
+
 Self.topNode = Node(x,self.topNode)把新的書放進去
+
 接著更新最後一本書的位置
 
 Self.topNode = self.topNode.next
+
 若拿最上面那本書，要告訴別人下次拿的是哪一本書
+
 Top功能
+
 最上面那本書是什麼要回傳
+
 getMin功能
+
 取得top裡面最小的值算是什麼
 
  - Queue
