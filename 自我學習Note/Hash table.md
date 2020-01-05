@@ -16,7 +16,7 @@
 
  - 從Set變成Hash table
 
-![](https://imgur.com/Ilz4WzF.jpg)  ![](https://imgur.com/jroC5MQ.jpg)
+![](https://imgur.com/Ilz4WzF.jpg)            ![](https://imgur.com/jroC5MQ.jpg)
 
 
 ## 參考資料
