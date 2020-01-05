@@ -45,6 +45,8 @@ Tree V.S Binary Tree
 
 如何建立BST:輸入的資料皆與樹根比，比樹根跟小的放至左子樹，比樹根大的放至右子樹。
 
+![](https://imgur.com/QDYjz1t.jpg)
+
 ## 參考資料
 
 https://www.youtube.com/watch?v=ikPPdBDZnz4&feature=emb_title
