@@ -22,7 +22,8 @@ While迴圈表示如果第一本書的下一本是箱底(最後一本)就離開W
 
 ![](https://imgur.com/6wZKt61.jpg)
 
-##參考資料
+## 參考資料
+
 https://www.youtube.com/watch?v=JlMyYuY1aXU
 
 https://stackabuse.com/python-linked-lists/
