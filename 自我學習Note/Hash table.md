@@ -14,11 +14,9 @@
  
 不須經過事前排序、保密性高、時間複雜度O(1)
 
-從Set變成Hash table
+ - 從Set變成Hash table
 
-![](https://imgur.com/Ilz4WzF.jpg)
-
-![](https://imgur.com/jroC5MQ.jpg)
+![](https://imgur.com/Ilz4WzF.jpg)  ![](https://imgur.com/jroC5MQ.jpg)
 
 
 ## 參考資料
