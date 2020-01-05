@@ -18,7 +18,8 @@
  
  ![](https://imgur.com/OboJQEU.jpg)
 
-  - Merge Sort
+ - Merge Sort
+  
  ![](https://imgur.com/DknXZQA.jpg)
 
 ## 參考資料
