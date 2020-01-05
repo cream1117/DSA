@@ -21,12 +21,12 @@
 
 子節點 i 的父節點在位置floor((i-1)/2)
 
-初等排序法
+## 初等排序法
  - Selection sort
  - Insertion sort
  - Bubble sort
  
-高等排序法
+## 高等排序法
  - Heap sort
  - Quick sort
  - Merge sort
