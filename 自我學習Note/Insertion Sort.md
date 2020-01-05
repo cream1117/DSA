@@ -39,3 +39,5 @@ https://www.junyiacademy.org/science/computer-science/v/insertion-sort-algorithm
 https://github.com/pecu/DSA/blob/master/04_InsertionSort/insertion-sort-list.py
 
 https://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F
+
+https://emn178.pixnet.net/blog/post/93791164
