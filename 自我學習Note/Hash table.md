@@ -16,7 +16,7 @@
 
  - 從Set變成Hash table
 
-![](https://imgur.com/undefined.jpg)            
+![](https://imgur.com/54EyA4x.jpg)            
 
 
 ## 參考資料
