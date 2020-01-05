@@ -6,7 +6,7 @@
  - Tree 不可為空 
  - 子樹間沒有交集 
 
-![](https://imgur.com/undefined.jpg)
+![](https://imgur.com/H7NGzsO.jpg)
 
  - Degree of a node(節點分支度)：節點的子樹個數 Degree of A=3,B=2,E=0… 
  - Degree of a tree(樹分支度):樹中所有節點分支度最大者，即 max 
@@ -28,7 +28,7 @@
 
 Tree V.S Binary Tree
 
-![](https://imgur.com/undefined.jpg)
+![](https://imgur.com/2Wcwopw.jpg)
 
 二元樹 
  - 可以為空的樹 
