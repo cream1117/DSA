@@ -1,7 +1,7 @@
 ## Breadth-First Search
 ![](https://imgur.com/BKkAjym.jpg)
 
-![](https://imgur.com/hDNmnoa.jpg)
+![](https://imgur.com/Y5mBNiv.jpg)
 
 稱作廣度優先搜尋法，是以某一節點為出發點，先拜訪所有相鄰的節點。
 
@@ -17,13 +17,16 @@ BFS利用Queue作為儲存將要探索的點的資料結構。
  - 如果不是目標點，就繼續訪問與其相鄰的位置點，將可走的相鄰的位置點入隊,並更新visit陣列
 
 ## Depth-First Search
-![](https://imgur.com/ylFFzId.jpg)
 
 ![](https://imgur.com/i3ZLsAp.jpg)
 
 稱作深度優先搜尋法。先把同一個路線的點採訪完回到原點，再重新走訪其他路線的點。
 
 DFS利用Stack作為儲存已經開始探索但尚未結束的點的資料結構。
+
+![](https://imgur.com/ylFFzId.jpg)
+
+DFS的搜尋路線如上圖
 
 ## 參考資料
 https://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html
