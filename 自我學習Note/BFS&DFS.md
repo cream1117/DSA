@@ -1,5 +1,4 @@
 ## Breadth-First Search
-![](https://imgur.com/BKkAjym.jpg)
 
 ![](https://imgur.com/Y5mBNiv.jpg)
 
@@ -20,7 +19,7 @@ BFS利用Queue作為儲存將要探索的點的資料結構。
 
 ![](https://imgur.com/i3ZLsAp.jpg)
 
-稱作深度優先搜尋法。先把同一個路線的點採訪完回到原點，再重新走訪其他路線的點。
+稱作深度優先搜尋法。可用樹來表示。先把同一個路線的點採訪完回到原點，再重新走訪其他路線的點。
 
 DFS利用Stack作為儲存已經開始探索但尚未結束的點的資料結構。
 
