@@ -14,12 +14,9 @@
 
 ![](https://imgur.com/m4d4hcQ.jpg)
 
-
 ![](https://imgur.com/va51l5R.jpg)
 
-
 ![](https://imgur.com/oOsm9me.jpg)
-
 
 ![](https://imgur.com/wAWJNV0.jpg)
 
@@ -46,9 +43,11 @@
 
 特點:
 
-(1)	每一條由root到任一個leaf的path上面，其black edges的數目是相同的。
+(1) 每個Node只能是紅色或是黑色，root跟leaf node一定要是黑色。
 
 (2)	由root到任何的leaf的path上，不可以有兩個連續的red edges。
+
+(3) 每一條由root到任一個leaf的path上面，其black edges的數目是相同的。
 
 
 ## 參考資料
