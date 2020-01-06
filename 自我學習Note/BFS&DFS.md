@@ -26,7 +26,7 @@ DFS利用Stack作為儲存已經開始探索但尚未結束的點的資料結構
 
 ![](https://imgur.com/ylFFzId.jpg)
 
-DFS的搜尋路線如上圖
+DFS的搜尋路線時的各自選項如上圖。
 
 ## 參考資料
 https://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html
