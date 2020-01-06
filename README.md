@@ -9,46 +9,47 @@
 
 # week2
 * Linked List
-  * [題目](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Linked_list.md)
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Linked_list.md)
 # week3 
- - Stack & Queue
-
+* Stack & Queue
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Stack%20%26%20Queue.md)
 # week4
  - 插入排序法(Insertion Sort)
+ * Insertion Sort
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Insertion%20Sort.md)
  - 時間複雜度(Time Complexity)
  - 空間複雜度(Space Complexity)
  - 穩定性(Stable/Unstable)
 
-## 插入排序做法
-
 # week5
- - Quick Sort
- 
+  * Quick Sort
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Quick%20Sort.md)
+ - 時間複雜度(Time Complexity)
 # week6
- - Heap Sort
-
+ * Heap Sort
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Heap%20Sort.md)
 # week7
- - Merge Sort
-
+ * Merge Sort
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Merge%20Sort.md)
 # week8
- - Binary Tree
- - Binary Search Tree
-
+  - Binary Search Tree
+ * Binary Tree
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Binary%20Tree.md)
 # week9
- - Red Black Tree
- 
+ * Red Black Tree&Binary Search Tree
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/BST%26RBT.md)
 # week10
- - Hash Table
- 
+ * Hash Table
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Hash%20table.md)
 # week11
- - Breadth-First Search
-
+* Breadth-First Search
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/BFS%26DFS.md)
 # week12
- - Depth-First Search
-
+* Depth-First Search
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/BFS%26DFS.md)
 # week13
- - Minimum Spanning Tree
-
+* Minimum Spanning Tree
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/MST&Shortest%20Path.md)
 # week14
- - Shortest Path
-
+* Shortest Path
+  * [筆記](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/MST&Shortest%20Path.md)
