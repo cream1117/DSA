@@ -1,4 +1,9 @@
+ - Binary Tree
+ 
+![](https://imgur.com/BKkAjym.jpg)
+
 ## Binary Search Tree
+
 可應用於資料的排序跟搜尋。
 
 如何建立BST:輸入的資料皆與樹根比，比樹根跟小的放至左子樹，比樹根大的放至右子樹。
