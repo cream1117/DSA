@@ -8,8 +8,8 @@
  - github 
 
 # week2
- - Linked List
-
+* Linked List
+  * [題目](https://github.com/cream1117/DSA/blob/master/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92Note/Linked_list.md)
 # week3 
  - Stack & Queue
 
